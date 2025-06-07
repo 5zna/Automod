@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/9bc12c62-49ba-47df-9ad0-a3d91f91c73d)
 # Automod
 - Earn Automod Badge For Your Bot With Just A Single Command.
 - Process is taking 24 hour of executing the command.
